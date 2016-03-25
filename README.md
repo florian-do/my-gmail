@@ -1,6 +1,8 @@
 # my-gmail
 My implementation of Gmail Google App
 
+In development
+
 ### The project ###
 
 ![alt tag](http://62-210-36-42.rev.poneytelecom.eu/~do_f/android/my-gmail_logo.png)
